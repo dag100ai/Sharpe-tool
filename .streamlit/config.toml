@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#2F4C9A"
+backgroundColor = "#F4F6F7"
+secondaryBackgroundColor = "#E6EBEE"
+textColor = "#1C2B39"
+font = "Public Sans:https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600&display=swap"
+headingFont = "Newsreader:https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap"
+
+[server]
+headless = true
